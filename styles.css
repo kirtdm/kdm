@@ -1,0 +1,12 @@
+
+    body {
+      background-color: #DCD7C9;
+    }
+
+    hr {
+
+      border-style: solid none none;
+      border-color: rgba(59, 57, 57, 0.388) ;
+      border-width: 1px;
+      width: 90%;
+    }
